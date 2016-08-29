@@ -15,7 +15,7 @@ import com.sameersubudhi.simpleWebCrawler.crawler.CrawlerControl;
  * 
  * Since it depends on OCR to obtain the relevant data, the success rate depends
  * on the quality of the graphics representing the values. This way, the
- * efficiency of this application cannot be fully guaranteed. Fine-tunning may
+ * efficiency of this application cannot be fully guaranteed. Fine-tuning may
  * be required.
  * 
  * Crawler+producer and consumer are executed in different threads. They can run
